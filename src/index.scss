@@ -1,0 +1,16 @@
+:root {
+  --border-color: #387677;
+  --background-color: #90BEBF;
+  --background-hover: #81abab;
+  --warning-color: #ff2242;
+}
+
+body {
+  margin: 0;
+  color: #fff;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
